@@ -1,0 +1,2 @@
+Participant ID,Name,Role,Check-In Time,Last Seen,Present Duration (s),Avg Engagement (MEI),Drowsy Alerts,Liveness Verified,Attendance Status
+DEMO-1,Ayush Demo,Student,2026-11-01 00:13:50,2026-11-01 00:13:50,1,60.5,0,✅ Verified,Present
